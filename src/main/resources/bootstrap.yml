@@ -10,3 +10,7 @@ management:
     web:
       exposure:
         include: "*"
+server:
+  port: 9003
+entityName: Core
+success: true
